@@ -1,6 +1,6 @@
 name: fl_charset
 description: "Charset encoding and decoding Library, include ISO-(2-15), Windows Series, GBK, EUC-JP, EUC-KR, SHIFT-JIS, TCVN-3. And supported charset detect, canEncode, canDecode."
-version: 1.0.0
+version: 1.0.1
 homepage: "https://github.com/leanhtuan1994/fl_charset"
 repository: "https://github.com/leanhtuan1994/fl_charset"
 
