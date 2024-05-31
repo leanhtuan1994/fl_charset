@@ -14,7 +14,7 @@ Arrange from <br />
 ## Examples
 
 ```dart
-import 'package:fl_charset/charset.dart';
+import 'package:fl_charset/fl_charset.dart';
 
 main() {
   // default

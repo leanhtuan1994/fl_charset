@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* include ISO-(2-15), Windows Series, GBK, EUC-JP, EUC-KR, SHIFT-JIS, TCVN-3. And supported charset detect, canEncode, canDecode.
